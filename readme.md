@@ -12,6 +12,6 @@
 	<li>Build a function to calculate daily base calory consumption (input)</li>
 	<li>Build a function to calculate avarage daily base calories that being used (output)</li>
 	<li>Build a funtion to give daily base practice for exercise</li>
-	<li>Build a graph o see the achievement</li>
+	<li>Build a graph to see the achievement</li>
 </ol>
 
